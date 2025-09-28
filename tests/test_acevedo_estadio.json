@@ -1,0 +1,70 @@
+{
+  "ok": true,
+  "total_time_min": 27,
+  "stops": [
+    "Acevedo",
+    "Tricentenario",
+    "Caribe",
+    "Universidad",
+    "Hospital",
+    "Prado",
+    "Parque Berrío",
+    "San Antonio",
+    "Cisneros",
+    "Suramericana",
+    "Estadio"
+  ],
+  "segments": [
+    {
+      "from": "Acevedo",
+      "to": "Tricentenario",
+      "line": "LineaA"
+    },
+    {
+      "from": "Tricentenario",
+      "to": "Caribe",
+      "line": "LineaA"
+    },
+    {
+      "from": "Caribe",
+      "to": "Universidad",
+      "line": "LineaA"
+    },
+    {
+      "from": "Universidad",
+      "to": "Hospital",
+      "line": "LineaA"
+    },
+    {
+      "from": "Hospital",
+      "to": "Prado",
+      "line": "LineaA"
+    },
+    {
+      "from": "Prado",
+      "to": "Parque Berrío",
+      "line": "LineaA"
+    },
+    {
+      "from": "Parque Berrío",
+      "to": "San Antonio",
+      "line": "LineaA"
+    },
+    {
+      "from": "San Antonio",
+      "to": "Cisneros",
+      "line": "LineaB"
+    },
+    {
+      "from": "Cisneros",
+      "to": "Suramericana",
+      "line": "LineaB"
+    },
+    {
+      "from": "Suramericana",
+      "to": "Estadio",
+      "line": "LineaB"
+    }
+  ],
+  "transfers": 1
+}

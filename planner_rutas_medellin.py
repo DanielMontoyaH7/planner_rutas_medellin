@@ -1,4 +1,4 @@
-# planner_rutas_medellin.py (versión robusta con normalización y --list)
+# planner_rutas_medellin.py 
 from dataclasses import dataclass, field
 from typing import Dict, List, Tuple, Optional, Set
 import heapq
