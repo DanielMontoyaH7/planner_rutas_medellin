@@ -1,0 +1,34 @@
+{
+  "ok": true,
+  "total_time_min": 20,
+  "stops": [
+    "Madera",
+    "Acevedo",
+    "Andalucía",
+    "Popular",
+    "Santo Domingo"
+  ],
+  "segments": [
+    {
+      "from": "Madera",
+      "to": "Acevedo",
+      "line": "LineaA"
+    },
+    {
+      "from": "Acevedo",
+      "to": "Andalucía",
+      "line": "CableK"
+    },
+    {
+      "from": "Andalucía",
+      "to": "Popular",
+      "line": "CableK"
+    },
+    {
+      "from": "Popular",
+      "to": "Santo Domingo",
+      "line": "CableK"
+    }
+  ],
+  "transfers": 1
+}

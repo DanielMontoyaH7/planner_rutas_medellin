@@ -1,0 +1,130 @@
+{
+  "ok": true,
+  "total_time_min": 52,
+  "stops": [
+    "Niquía",
+    "Bello",
+    "Madera",
+    "Acevedo",
+    "Tricentenario",
+    "Caribe",
+    "Universidad",
+    "Hospital",
+    "Prado",
+    "Parque Berrío",
+    "San Antonio",
+    "Alpujarra",
+    "Exposiciones",
+    "Industriales",
+    "Poblado",
+    "Aguacatala",
+    "Ayurá",
+    "Envigado",
+    "Itagüí",
+    "Sabaneta",
+    "La Estrella"
+  ],
+  "segments": [
+    {
+      "from": "Niquía",
+      "to": "Bello",
+      "line": "LineaA"
+    },
+    {
+      "from": "Bello",
+      "to": "Madera",
+      "line": "LineaA"
+    },
+    {
+      "from": "Madera",
+      "to": "Acevedo",
+      "line": "LineaA"
+    },
+    {
+      "from": "Acevedo",
+      "to": "Tricentenario",
+      "line": "LineaA"
+    },
+    {
+      "from": "Tricentenario",
+      "to": "Caribe",
+      "line": "LineaA"
+    },
+    {
+      "from": "Caribe",
+      "to": "Universidad",
+      "line": "LineaA"
+    },
+    {
+      "from": "Universidad",
+      "to": "Hospital",
+      "line": "LineaA"
+    },
+    {
+      "from": "Hospital",
+      "to": "Prado",
+      "line": "LineaA"
+    },
+    {
+      "from": "Prado",
+      "to": "Parque Berrío",
+      "line": "LineaA"
+    },
+    {
+      "from": "Parque Berrío",
+      "to": "San Antonio",
+      "line": "LineaA"
+    },
+    {
+      "from": "San Antonio",
+      "to": "Alpujarra",
+      "line": "LineaA"
+    },
+    {
+      "from": "Alpujarra",
+      "to": "Exposiciones",
+      "line": "LineaA"
+    },
+    {
+      "from": "Exposiciones",
+      "to": "Industriales",
+      "line": "LineaA"
+    },
+    {
+      "from": "Industriales",
+      "to": "Poblado",
+      "line": "LineaA"
+    },
+    {
+      "from": "Poblado",
+      "to": "Aguacatala",
+      "line": "LineaA"
+    },
+    {
+      "from": "Aguacatala",
+      "to": "Ayurá",
+      "line": "LineaA"
+    },
+    {
+      "from": "Ayurá",
+      "to": "Envigado",
+      "line": "LineaA"
+    },
+    {
+      "from": "Envigado",
+      "to": "Itagüí",
+      "line": "LineaA"
+    },
+    {
+      "from": "Itagüí",
+      "to": "Sabaneta",
+      "line": "LineaA"
+    },
+    {
+      "from": "Sabaneta",
+      "to": "La Estrella",
+      "line": "LineaA"
+    }
+  ],
+  "transfers": 0
+}

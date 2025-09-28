@@ -1,0 +1,88 @@
+{
+  "ok": true,
+  "total_time_min": 37,
+  "stops": [
+    "Popular",
+    "Andalucía",
+    "Acevedo",
+    "Tricentenario",
+    "Caribe",
+    "Universidad",
+    "Hospital",
+    "Prado",
+    "Parque Berrío",
+    "San Antonio",
+    "Alpujarra",
+    "Exposiciones",
+    "Industriales",
+    "Poblado"
+  ],
+  "segments": [
+    {
+      "from": "Popular",
+      "to": "Andalucía",
+      "line": "CableK"
+    },
+    {
+      "from": "Andalucía",
+      "to": "Acevedo",
+      "line": "CableK"
+    },
+    {
+      "from": "Acevedo",
+      "to": "Tricentenario",
+      "line": "LineaA"
+    },
+    {
+      "from": "Tricentenario",
+      "to": "Caribe",
+      "line": "LineaA"
+    },
+    {
+      "from": "Caribe",
+      "to": "Universidad",
+      "line": "LineaA"
+    },
+    {
+      "from": "Universidad",
+      "to": "Hospital",
+      "line": "LineaA"
+    },
+    {
+      "from": "Hospital",
+      "to": "Prado",
+      "line": "LineaA"
+    },
+    {
+      "from": "Prado",
+      "to": "Parque Berrío",
+      "line": "LineaA"
+    },
+    {
+      "from": "Parque Berrío",
+      "to": "San Antonio",
+      "line": "LineaA"
+    },
+    {
+      "from": "San Antonio",
+      "to": "Alpujarra",
+      "line": "LineaA"
+    },
+    {
+      "from": "Alpujarra",
+      "to": "Exposiciones",
+      "line": "LineaA"
+    },
+    {
+      "from": "Exposiciones",
+      "to": "Industriales",
+      "line": "LineaA"
+    },
+    {
+      "from": "Industriales",
+      "to": "Poblado",
+      "line": "LineaA"
+    }
+  ],
+  "transfers": 1
+}
